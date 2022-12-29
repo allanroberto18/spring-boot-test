@@ -6,3 +6,4 @@ Aplicação deve usar Spring Boot e Java 11
 3. a aplicação deve ter pelo menos 2 tabelas com relacionamento one-to-many;
 4. a aplicação deve usar spring data;
 5. a aplicação deve ter cobertura de testes;
+6. a aplicação deve ter o swagger configurado;
